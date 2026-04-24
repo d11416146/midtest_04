@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\bin\Debug\net10.0\midtest_04.exe
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\bin\Debug\net10.0\midtest_04.deps.json
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\bin\Debug\net10.0\midtest_04.runtimeconfig.json
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\bin\Debug\net10.0\midtest_04.dll
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\bin\Debug\net10.0\midtest_04.pdb
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\midtest_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\midtest_04.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\midtest_04.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\midtest_04.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\midtest_04.dll
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\refint\midtest_04.dll
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\midtest_04.pdb
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\midtest_04.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\midtest_04\midtest_04\obj\Debug\net10.0\ref\midtest_04.dll
